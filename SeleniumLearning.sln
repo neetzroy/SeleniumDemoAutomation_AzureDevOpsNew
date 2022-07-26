@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumLearning", "SeleniumLearning.csproj", "{47770D57-E044-4314-94AE-39B2A8316880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSelFramework", "..\CSharpSelFramework\CSharpSelFramework.csproj", "{F69D3F79-A84A-46B4-AD51-12332432D9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47770D57-E044-4314-94AE-39B2A8316880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47770D57-E044-4314-94AE-39B2A8316880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47770D57-E044-4314-94AE-39B2A8316880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47770D57-E044-4314-94AE-39B2A8316880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69D3F79-A84A-46B4-AD51-12332432D9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D3F79-A84A-46B4-AD51-12332432D9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D3F79-A84A-46B4-AD51-12332432D9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D3F79-A84A-46B4-AD51-12332432D9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9355944C-FB7F-42A9-9C49-C81431248C86}
+	EndGlobalSection
+EndGlobal
